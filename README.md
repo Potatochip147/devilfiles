@@ -28,7 +28,7 @@
 
 * `ADMIN` -  "5841761654"
 
-* `DB_URL`  - "mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net"
+* `DB_URL`  - "[mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net](https://cloud.mongodb.com/devil@cluster0)"
 
 * `DB_NAME`  - "devilRename"
 
