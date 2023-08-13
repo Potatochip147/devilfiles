@@ -30,7 +30,7 @@
 
 * `DB_URL`  - "mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net/?retryWrites=true&w=majority"
 
-* `DB_NAME`  - "devil@cluster0"
+* `DB_NAME`  - "devilRename"
 
 * `FORCE_SUB` - "@Devilservers"
 
