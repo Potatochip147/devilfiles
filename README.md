@@ -18,7 +18,7 @@
 
 ## Configs 
 
-* `BOT_TOKEN`  - 6442592361:AAH9FAakLLxEdDOntInZfuiFpUHtlyAQXC8
+* `BOT_TOKEN`  - "6442592361:AAH9FAakLLxEdDOntInZfuiFpUHtlyAQXC8"
 
 * `API_ID` - "1968287"
 
