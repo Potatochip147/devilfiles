@@ -17,25 +17,25 @@
 
 
 ## Configs 
+BOT_TOKEN - Get Bot Token From @BotFather
 
-* `BOT_TOKEN`  - "6442592361:AAH9FAakLLxEdDOntInZfuiFpUHtlyAQXC8"
+API_ID - From my.telegram.org
 
-* `API_ID` - "1968287"
+API_HASH - From my.telegram.org
 
-* `API_HASH` - "fddba1119766321a3dff330db7c917f1"
+WEBHOOK - If Your Server Is Need Web Service! Value = True Else Value = False
 
-* `WEBHOOK` -  "False"
+ADMIN - AUTH Or Bot Controllers Id's Multiple Id Use Space To Split
 
-* `ADMIN` -  "5841761654"
+DB_URL - Mongo Database URL From https://cloud.mongodb.com
 
-* `DB_URL`  - "[mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net](https://cloud.mongodb.com/devil@cluster0)"
+DB_NAME - Your Database Name From Mongodb.
 
-* `DB_NAME`  - "devilRename"
+FORCE_SUB - Your Force Sub Channel Username Without @
 
-* `FORCE_SUB` - "@Devilservers"
+LOG_CHANNEL - Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server
 
-* `LOG_CHANNEL` - "1908257620"
-
+START_PIC - Start Message Photo. You Don't Need This! Just Skip
 ## Botfather Commands
 ```
 start - Bot Alive Cheking
