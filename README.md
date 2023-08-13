@@ -34,7 +34,7 @@
 
 * `FORCE_SUB` - "@Devilservers"
 
-* `LOG_CHANNEL` - "https://t.me/+eSTajyX-so4yMGU1"
+* `LOG_CHANNEL` - "1908257620"
 
 * `START_PIC` - Start Message Photo. You Don't Need This! Just Skip
 
