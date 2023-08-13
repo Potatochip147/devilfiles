@@ -1,3 +1,9 @@
+
+<p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
+
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?usernameDarkksoul&repo=PYRO-RENAME-BOT&theme=dark) 
+
 ## Deploy To Heroku
 
 <a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/PYRO-RENAME-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
@@ -11,21 +17,21 @@
 
 * `BOT_TOKEN`  - 6442592361:AAH9FAakLLxEdDOntInZfuiFpUHtlyAQXC8
 
-* `API_ID` - 1968287
+* `API_ID` - "1968287"
 
-* `API_HASH` - fddba1119766321a3dff330db7c917f1
+* `API_HASH` - "fddba1119766321a3dff330db7c917f1"
 
 * `WEBHOOK` - If Your Server Is Need Web Service! Value = `True` Else Value = `False`
 
-* `ADMIN` -  6156013850,6114671805,2133246930,6258807868,1857232517
+* `ADMIN` -  "6156013850,6114671805,2133246930,6258807868,1857232517"
 
-* `DB_URL`  - mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net/?retryWrites=true&w=majority
+* `DB_URL`  - "mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net/?retryWrites=true&w=majority"
 
-* `DB_NAME`  - devil@cluster0
+* `DB_NAME`  - "devil@cluster0"
 
-* `FORCE_SUB` - @Devilservers
+* `FORCE_SUB` - "@Devilservers"
 
-* `LOG_CHANNEL` - https://t.me/+eSTajyX-so4yMGU1
+* `LOG_CHANNEL` - "https://t.me/+eSTajyX-so4yMGU1"
 
 * `START_PIC` - Start Message Photo. You Don't Need This! Just Skip
 
@@ -41,6 +47,12 @@ restart - To Rrstart The Bot (Admin Only)
 status - Check Bot Status (Admin Only)
 broadcast - Send Message To All Users (Admin Only)
 ```
+## ❣️Thanks To
+
+<a href="https://t.me/Devilservers">
+   <p> lntechnical TG</p>
+  </a>
+
 
 
 
