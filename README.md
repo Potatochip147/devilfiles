@@ -26,7 +26,7 @@
 
 * `WEBHOOK` -  "False"
 
-* `ADMIN` -  "6156013850,6114671805,2133246930,6258807868,1857232517"
+* `ADMIN` -  "6156013850, 6114671805, 2133246930, 6258807868, 1857232517"
 
 * `DB_URL`  - "mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net/?retryWrites=true&w=majority"
 
@@ -35,8 +35,6 @@
 * `FORCE_SUB` - "@Devilservers"
 
 * `LOG_CHANNEL` - "1908257620"
-
-* `START_PIC` - Start Message Photo. You Don't Need This! Just Skip
 
 ## Botfather Commands
 ```
