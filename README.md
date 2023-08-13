@@ -26,7 +26,7 @@
 
 * `WEBHOOK` -  "False"
 
-* `ADMIN` -  "6156013850, 6114671805, 2133246930, 6258807868, 1857232517"
+* `ADMIN` -  "5841761654"
 
 * `DB_URL`  - "mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net/?retryWrites=true&w=majority"
 
