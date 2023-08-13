@@ -28,7 +28,7 @@
 
 * `ADMIN` -  "5841761654"
 
-* `DB_URL`  - "mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net/?retryWrites=true&w=majority"
+* `DB_URL`  - "mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net"
 
 * `DB_NAME`  - "devilRename"
 
