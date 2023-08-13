@@ -1,3 +1,6 @@
+## Deploy To Heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/Darkksoul/PYRO-RENAME-BOT"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 <p align="center">
 🤖 <a href="https://t.me/reenamrbot"><img title="Telegram" src="https://img.shields.io/static/v1?label=Rename+bot&message=BOT&color=blue-green"></a> 🤖
