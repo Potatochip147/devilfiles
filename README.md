@@ -2,7 +2,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?usernameDarkksoul&repo=PYRO-RENAME-BOT&theme=dark) 
+![github card](https://github-readme-stats.vercel.app/api/Darkksoul&repo=PYRO-RENAME-BOT&theme=dark) 
 
 ## Deploy To Heroku
 
