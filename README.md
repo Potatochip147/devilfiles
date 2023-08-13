@@ -1,10 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-#
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
-
-
-
 
 <p align="center">
 🤖 <a href="https://t.me/reenamrbot"><img title="Telegram" src="https://img.shields.io/static/v1?label=Rename+bot&message=BOT&color=blue-green"></a> 🤖
@@ -23,13 +16,13 @@
 
 * `ADMIN` -  6156013850,6114671805,2133246930,6258807868,1857232517
 
-* `DB_URL`  - Mongo Database URL From https://cloud.mongodb.com
+* `DB_URL`  - mongodb+srv://devil:devil@cluster0.jpsbwpb.mongodb.net/?retryWrites=true&w=majority
 
-* `DB_NAME`  - Your Database Name From Mongodb. 
+* `DB_NAME`  - devil@cluster0
 
-* `FORCE_SUB` - Your Force Sub Channel Username Without @
+* `FORCE_SUB` - @Devilservers
 
-* `LOG_CHANNEL` - Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server
+* `LOG_CHANNEL` - https://t.me/+eSTajyX-so4yMGU1
 
 * `START_PIC` - Start Message Photo. You Don't Need This! Just Skip
 
@@ -45,21 +38,6 @@ restart - To Rrstart The Bot (Admin Only)
 status - Check Bot Status (Admin Only)
 broadcast - Send Message To All Users (Admin Only)
 ```
-
-## ❣️Thanks To
-
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
-  </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
-  </a>
-
-## 🤩 INSPIRATION
-
-<a href="https://youtube.com/c/MoTech_YT">
-   <p>❣️ MoTech 🔥</p>
-  </a>
 
 
 
