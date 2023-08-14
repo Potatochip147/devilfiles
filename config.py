@@ -65,10 +65,8 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Devilservers💞</b>"""
 ╰───────────────⍟ """
 
 
-
-DEV_TXT = """ \n Bot Owner:- <a href='https://t.me/Devilservers'>CLICK HERE </a>
+= """ \n Bot Owner:- <a href='https://t.me/Devilservers'>CLICK HERE </a>
 """ 
-
 
 
     HELP_TXT = """
