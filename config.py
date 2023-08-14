@@ -64,7 +64,9 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Devilservers💞</b>"""
 ├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>Pyʀᴏ Rᴇɴᴀᴍᴇʀ V3.0.0</a></b>     
 ╰───────────────⍟ """
     
-DEV_TXT = """ \n Bot Owner:- <a href='https://t.me/Devilservers'>CLICK HERE </a>""" 
+DEV_TXT = """ 
+\n Bot Owner:- <a href='https://t.me/Devilservers'>CLICK HERE </a>
+""" 
 
     HELP_TXT = """
 🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
