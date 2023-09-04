@@ -20,7 +20,7 @@
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
             "value": "",
-            "required": false 
+            "required": True 
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
