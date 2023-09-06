@@ -51,14 +51,6 @@ class Txt(object):
 Tʜɪs Is Aɴ Aᴅᴠᴀɴᴄᴇᴅ Aɴᴅ Yᴇᴛ Pᴏᴡᴇʀꜰᴜʟ Rᴇɴᴀᴍᴇ Bᴏᴛ
 Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Devilservers💞</b>"""
 
-    ABOUT_TXT = """<b>╭───────────⍟
-├🤖 ᴍy ɴᴀᴍᴇ : {Jumping Toy}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Devilservers>𝗧𝗘𝗔𝗠 Devil</a> 
-├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
-├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://github.com/> Rᴇɴᴀᴍᴇʀ V3.0.0</a></b>     
-╰───────────────⍟ """
-
     HELP_TXT = """
 🌌 <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴɪʟᴇ</u></b>
   
